@@ -1,0 +1,2 @@
+# childproof
+Childproofing your scripts.
